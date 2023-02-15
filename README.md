@@ -19,7 +19,7 @@ I am a graduate with a Masters in Physics with Philosophy from the University of
  
  ### Informal Studying
  - Completed Deep Learning Specialisation on Coursera
- - 88% Completed the dataquest data scientist in Python course
+ - 88% Completed the dataquest data scientist in Python course 
  - Tracked over 400 hours of self study time, using online courses and applying knowledge in projects
 
 
