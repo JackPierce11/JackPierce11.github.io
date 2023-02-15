@@ -6,11 +6,11 @@ I am a graduate with a Masters in Physics with Philosophy from the University of
 
 ## **Projects**
 
-[1. Football win prediction project](https://github.com/JackPierce11/Premier-League-Project)
+[1. Predicting the Winner For Premier League Matches](https://github.com/JackPierce11/Premier-League-Project)
 
----+
+---
 
-[2. predicting house price sale project](https://github.com/JackPierce11/Predicting-House-Prices)
+[2. Predicting House Price Sale Value](https://github.com/JackPierce11/Predicting-House-Prices)
 
  
  ## **Education**
