@@ -18,4 +18,5 @@ plan of action:
 - Bulk out the github pages portfolio
   - about me sections
   - education section
+- Use a theme that makes the portfolio clean and visually pleasing
  
