@@ -21,6 +21,9 @@ I am a graduate with a Masters in Physics with Philosophy from the University of
  - Completed Deep Learning Specialisation on Coursera
  - 88% Completed the dataquest data scientist in Python course 
  - Tracked over 400 hours of self study time, using online courses and applying knowledge in projects
+ 
+ link to study tracking in notion: shows the tracking of hours studied, a log of what was studied. Shows overall level of organisation and motivation.
+ (https://www.notion.so/Data-21230337f4c04fb8acd0bf1d0143b7bd?pvs=4)
 
 
 plan of action:
