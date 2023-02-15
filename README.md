@@ -4,9 +4,9 @@
 
 ### Projects to include
 
-1. Football win prediction project
+[1. Football win prediction project](https://github.com/JackPierce11/Premier-League-Project)
 
-2. predicting house price sale project
+[2. predicting house price sale project](https://github.com/JackPierce11/Predicting-House-Prices))
 
 
 plan of action:
