@@ -6,7 +6,7 @@ I am a graduate with a Masters in Physics with Philosophy from the University of
 
 ## **Projects**
 
-[1. Predicting the Winner For Premier League Matches](https://github.com/JackPierce11/Premier-League-Project)
+## [1. Predicting the Winner For Premier League Matches](https://github.com/JackPierce11/Premier-League-Project)
 
 ### Predicting Premier League Winner Conclusion
 We found that the **random forest classifier** performed the best on our data, with a **CV score of 0.692** and a **test accuracy score of 0.728**. This means that this model can correctly predict the winner of a football match by seeing the post match stats roughly 73% of the time. 
@@ -22,7 +22,7 @@ Below is a confusion matrix for the random forest classifier:
 
 ---
 
-[2. Predicting House Price Sale Value](https://github.com/JackPierce11/Predicting-House-Prices)
+## [2. Predicting House Price Sale Value](https://github.com/JackPierce11/Predicting-House-Prices)
 
 ### Predicting House Prices Conclusion
 
