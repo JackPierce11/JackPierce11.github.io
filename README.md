@@ -39,23 +39,13 @@ In the kaggle competition my submission got a score of **0.13205**. This placed 
  
  ## **Education**
  ### Formal education
- - Masters in Physics with Philosophy from the University of Manchester
+ - 2.1 Masters in Physics with Philosophy from the University of Manchester
  
  ### Informal Studying
  - Completed Deep Learning Specialisation on Coursera
  - 88% Completed the dataquest data scientist in Python course 
  - Tracked over 400 hours of self study time, using online courses and applying knowledge in projects
  
- link to study tracking in notion: shows the tracking of hours studied, a log of what was studied. Shows overall level of organisation and motivation.
+ I track all the hours I study using notion and a log of what I studied each day in Notion. See link to see the study tracking and organisational skills that help keep me motivated, focused and constantly progressing!
  (https://www.notion.so/Data-21230337f4c04fb8acd0bf1d0143b7bd?pvs=4)
-
-
-plan of action:
-- Go through these projects to make the portfolio presentable (research needed)
-  - having a clear, factual numerical conclusions (want to show I am results focused)
-  - Following conventions for projects in general
-- Have these projects from the github presented well on the github pages portfolio
-- Bulk out the github pages portfolio
-  - about me sections
-  - education section
-- Use a theme that makes the portfolio clean and visually pleasing
+ 
