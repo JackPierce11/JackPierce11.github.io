@@ -10,7 +10,7 @@ During my Masters, I delved into the topic of the philosophy of language and wro
 
 In summary, my multidisciplinary background and diverse interests in physics, philosophy, language, and data science have fuelled my passion for exploring the world around me. My desire to better understand the impact of AI and use it to create value in the world drives my commitment to enhancing my technical understanding and ability to use tools that help gain actionable insights from data.
 
-## **Projects**
+# Projects
 
 ## [1. Predicting the Winner For Premier League Matches](https://github.com/JackPierce11/Premier-League-Project)
 
@@ -43,7 +43,7 @@ Looking the feature importance for the Lasso and Ridge models we can conclude th
 In the kaggle competition my submission got a score of **0.13205**. This placed me in position 925 out of 3869 teams **(top 24%)**
 
  
- ## **Education**
+ # Education
  ### Formal education
  - 2.1 Masters in Physics with Philosophy from the University of Manchester
  
