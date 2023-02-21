@@ -46,6 +46,6 @@ In the kaggle competition my submission got a score of **0.13205**. This placed 
  - 88% Completed the dataquest data scientist in Python course 
  - Tracked over 400 hours of self study time, using online courses and applying knowledge in projects
  
- I track all the hours I study using notion and a log of what I studied each day in Notion. See link to see the study tracking and organisational skills that help keep me motivated, focused and constantly progressing!
+ I track all the hours I study and keep a log of what I studied each day in Notion. See link to see the study tracking and organisational skills that help keep me motivated, focused and constantly progressing!
  (https://www.notion.so/Data-21230337f4c04fb8acd0bf1d0143b7bd?pvs=4)
  
