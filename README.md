@@ -2,6 +2,7 @@
 
 ## **About me**
 
+
 As a graduate with a Masters in Physics with Philosophy from the University of Manchester, I have always had a passion for exploring the world around me. This led me to spend 11 months in Mexico and Brazil, where I improved my Spanish and learned Portuguese whilst slow-traveling. It was during this time that I also began focusing on acquiring data science skills, a topic that has fascinated me for years
 
 My journey into the world of computers and technology began during my teenage years when I became fascinated by the idea of learning to code. I pursued this interest by taking computing as an extra GCSE, where I learned some coding basics. However, my interest in AI was sparked by a deeper curiosity about how technology impacts our daily lives and well-being. I came to understand that technologies that harness data can have far-reaching effects that can affect society as well as individual lives.
@@ -9,6 +10,7 @@ My journey into the world of computers and technology began during my teenage ye
 During my Masters, I delved into the topic of the philosophy of language and wrote my thesis on the subject. My research explored how biological evolution might support a specific theory in the philosophy of language. This experience motivated me to learn Spanish and examine the language learning process, which in turn fuelled my passion for languages and their function. This passion continues to drive my interest in NLP and language models.
 
 In summary, my multidisciplinary background and diverse interests in physics, philosophy, language, and data science have fuelled my passion for exploring the world around me. My desire to better understand the impact of AI and use it to create value in the world drives my commitment to enhancing my technical understanding and ability to use tools that help gain actionable insights from data.
+
 
 # Projects
 
@@ -41,6 +43,7 @@ Below we can see a summary of the performance of all the models:
 Looking the feature importance for the Lasso and Ridge models we can conclude that the characteristics most important to the house price are related to **the size of the house, the size of the land and the quality of the house**.
 
 In the kaggle competition my submission got a score of **0.13205**. This placed me in position 925 out of 3869 teams **(top 24%)**
+
 
  
  # Education
