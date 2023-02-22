@@ -1,5 +1,5 @@
 # **Jack Pierce Portfolio**
-&nbsp;
+
 ## **About me**
 
 
