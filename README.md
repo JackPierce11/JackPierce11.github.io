@@ -44,13 +44,22 @@ Looking the feature importance for the Lasso and Ridge models we can conclude th
 
 In the kaggle competition my submission got a score of **0.13205**. This placed me in position 925 out of 3869 teams **(top 24%)**
 
-
+# Technical Skills and Programming Ability
+- Python (Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Keras)
+- SQL (familiar)
+- Microsoft Office (Excel, Powerpoint, Word)
+- Matlab (Applied in Physics experiments)
  
- # Education
- ### Formal education
+# Education
+### Formal Education
  - 2.1 Masters in Physics with Philosophy from the University of Manchester
  
- ### Informal Studying
+Masters Physics Project - Research andexperimental project on magnetic nanobot
+Masters Philosophy Thesis - "In support of Wittgenstein’s critique of the Tractatus: Moving from The Picture Theory to Forms of Life" - I attempt to use biological evolution to add support for Wittgenstein's later philosophy of language.
+
+Relevant courses - Mathematics 1 & 2, Vibrations and Waves, Statistical Mechanics, Mathematics of Waves and Fields, Introduction to Non-Linear Physics, Philosophy of Language
+ 
+### Informal Studying
  - Completed Deep Learning Specialisation on Coursera
  - 88% Completed the dataquest data scientist in Python course 
  - Tracked over 400 hours of self study time, using online courses and applying knowledge in projects
