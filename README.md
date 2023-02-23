@@ -3,7 +3,7 @@
 ## **About me**
 
 
-As a graduate with a Masters in Physics with Philosophy from the University of Manchester, I have always had a passion for exploring the world around me. This led me to spend 11 months in Mexico and Brazil, where I improved my Spanish and learned Portuguese whilst slow-traveling. It was during this time that I also began focusing on acquiring data science skills, a topic that has fascinated me for years
+As a graduate with a Masters in Physics with Philosophy from the University of Manchester, I have always had a passion for exploring the world around me. This led me to spend 11 months in Mexico and Brazil, where I improved my Spanish and learned Portuguese whilst slow-traveling. It was during this time that I also began focusing on acquiring data science skills, a topic that has fascinated me for years.
 
 My journey into the world of computers and technology began during my teenage years when I became fascinated by the idea of learning to code. I pursued this interest by taking computing as an extra GCSE, where I learned some coding basics. However, my interest in AI was sparked by a deeper curiosity about how technology impacts our daily lives and well-being. I came to understand that technologies that harness data can have far-reaching effects that can affect society as well as individual lives.
 
