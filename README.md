@@ -1,4 +1,4 @@
-# **Jack Pierce Portfolio**
+title: Jack Pierce Portfolio
 
 ## **About me**
 
