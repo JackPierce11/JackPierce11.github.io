@@ -7,8 +7,8 @@
   - [2. Predicting House Price Sale Value](##2.PredictingHousePriceSaleValue)
 - [Technical Skills and Programming Ability](#TechnicalSkillsandProgrammingAbility)
 - [Education](#Education)
-- [Formal Education](##FormalEducation)
-- [Informal Studying](##InformalStudying)
+    - [Formal Education](##FormalEducation)
+    - [Informal Studying](##InformalStudying)
 - [Medium Articles](##MediumArticles)
 
 # **About me**
@@ -83,4 +83,9 @@ I track all the hours I study and keep a log of what I studied each day in Notio
 
 ## Medium Articles
 
-https://medium.com/@jacktpierce11
+[I have a medium profile you can find here!](https://medium.com/@jacktpierce11)
+
+I want to write about my interests that are related to Data Science, AI and NLP.
+
+### Articles:
+- [Input-Based Language Learning: What Deep Learning Can Teach Us](https://medium.com/@jacktpierce11/input-based-language-learning-what-deep-learning-can-teach-us-fc0dc7a24a84)
