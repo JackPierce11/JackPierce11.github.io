@@ -3,7 +3,7 @@
 
 [About me](#Aboutme)
 [Projects](#Projects)
-[1. Predicting the Winner For Premier League Matches](##1. Predicting the Winner For Premier League Matches)
+[1. Predicting the Winner For Premier League Matches](##1.PredictingtheWinnerForPremierLeagueMatches)
 [2. Predicting House Price Sale Value](##2. Predicting House Price Sale Value)
 [Technical Skills and Programming Ability](#Technical Skills and Programming Ability)
 [Education](#Education)
