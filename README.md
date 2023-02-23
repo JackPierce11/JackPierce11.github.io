@@ -1,17 +1,15 @@
 # Jack Pierce Portfolio
 
 
-[About me](#About me)
+[About me](##About me)
 [Projects](#Projects)
-1. Predicting the Winner For Premier League Matches
-Predicting Premier League Winner Conclusion
-2. Predicting House Price Sale Value
-Predicting House Prices Conclusion
-Technical Skills and Programming Ability
-Education
-Formal Education
-Informal Studying
-Link to Medium Profile with More Details
+[1. Predicting the Winner For Premier League Matches](##1. Predicting the Winner For Premier League Matches)
+[2. Predicting House Price Sale Value](##2. Predicting House Price Sale Value)
+[Technical Skills and Programming Ability](#Technical Skills and Programming Ability)
+[Education](#Education)
+[Formal Education](##Formal Education)
+[Informal Studying](##Informal Studying)
+[Medium Articles](##Medium Articles)
 
 ## **About me**
 
@@ -83,6 +81,6 @@ Relevant courses - Mathematics 1 & 2, Vibrations and Waves, Statistical Mechanic
 I track all the hours I study and keep a log of what I studied each day in Notion. See link to see the study tracking and organisational skills that help keep me motivated, focused and constantly progressing!
 (https://www.notion.so/Data-21230337f4c04fb8acd0bf1d0143b7bd?pvs=4)
 
-## Link to Medium Profile with articles
+## Medium Articles
 
 https://medium.com/@jacktpierce11
