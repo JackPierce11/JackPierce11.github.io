@@ -69,4 +69,7 @@ Relevant courses - Mathematics 1 & 2, Vibrations and Waves, Statistical Mechanic
  
 I track all the hours I study and keep a log of what I studied each day in Notion. See link to see the study tracking and organisational skills that help keep me motivated, focused and constantly progressing!
 (https://www.notion.so/Data-21230337f4c04fb8acd0bf1d0143b7bd?pvs=4)
- 
+
+## Link to Medium Profile with articles
+
+https://medium.com/@jacktpierce11https://medium.com/@jacktpierce11
