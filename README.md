@@ -1,7 +1,7 @@
 # Jack Pierce Portfolio
 
 
-[About me](#About me)
+[About me](#Aboutme)
 [Projects](#Projects)
 [1. Predicting the Winner For Premier League Matches](##1. Predicting the Winner For Premier League Matches)
 [2. Predicting House Price Sale Value](##2. Predicting House Price Sale Value)
