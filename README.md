@@ -1,4 +1,17 @@
-title: Jack Pierce Portfolio
+# Jack Pierce Portfolio
+
+
+[About me](#About me)
+Projects
+1. Predicting the Winner For Premier League Matches
+Predicting Premier League Winner Conclusion
+2. Predicting House Price Sale Value
+Predicting House Prices Conclusion
+Technical Skills and Programming Ability
+Education
+Formal Education
+Informal Studying
+Link to Medium Profile with More Details
 
 ## **About me**
 
