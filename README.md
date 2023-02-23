@@ -2,7 +2,7 @@
 
 
 [About me](#About me)
-Projects
+[Projects](#Projects)
 1. Predicting the Winner For Premier League Matches
 Predicting Premier League Winner Conclusion
 2. Predicting House Price Sale Value
