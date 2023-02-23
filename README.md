@@ -72,4 +72,4 @@ I track all the hours I study and keep a log of what I studied each day in Notio
 
 ## Link to Medium Profile with articles
 
-https://medium.com/@jacktpierce11https://medium.com/@jacktpierce11
+https://medium.com/@jacktpierce11
