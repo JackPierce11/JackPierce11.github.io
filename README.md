@@ -1,15 +1,15 @@
 # Jack Pierce Portfolio
 
 
-[About me](#Aboutme)
-[Projects](#Projects)
-[1. Predicting the Winner For Premier League Matches](##1.PredictingtheWinnerForPremierLeagueMatches)
-[2. Predicting House Price Sale Value](##2. Predicting House Price Sale Value)
-[Technical Skills and Programming Ability](#Technical Skills and Programming Ability)
-[Education](#Education)
-[Formal Education](##Formal Education)
-[Informal Studying](##Informal Studying)
-[Medium Articles](##Medium Articles)
+- [About me](#Aboutme)
+- [Projects](#Projects)
+- [1. Predicting the Winner For Premier League Matches](##1.PredictingtheWinnerForPremierLeagueMatches)
+- [2. Predicting House Price Sale Value](##2.PredictingHousePriceSaleValue)
+- [Technical Skills and Programming Ability](#TechnicalSkillsandProgrammingAbility)
+- [Education](#Education)
+- [Formal Education](##FormalEducation)
+- [Informal Studying](##InformalStudying)
+- [Medium Articles](##MediumArticles)
 
 # **About me**
 
