@@ -1,7 +1,7 @@
 # Jack Pierce Portfolio
 
 
-[About me](##About me)
+[About me](#About me)
 [Projects](#Projects)
 [1. Predicting the Winner For Premier League Matches](##1. Predicting the Winner For Premier League Matches)
 [2. Predicting House Price Sale Value](##2. Predicting House Price Sale Value)
@@ -11,7 +11,7 @@
 [Informal Studying](##Informal Studying)
 [Medium Articles](##Medium Articles)
 
-## **About me**
+# **About me**
 
 
 As a graduate with a Masters in Physics with Philosophy from the University of Manchester, I have always had a passion for exploring the world around me. This led me to spend 11 months in Mexico and Brazil, where I improved my Spanish and learned Portuguese whilst slow-traveling. It was during this time that I also began focusing on acquiring data science skills, a topic that has fascinated me for years.
