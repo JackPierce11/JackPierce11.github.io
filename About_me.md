@@ -1,3 +1,3 @@
 layout: page
 title: "About Me"
-permalink: jackpierce11.github.io/about-me
+permalink: https://jackpierce11.github.io/about-me
