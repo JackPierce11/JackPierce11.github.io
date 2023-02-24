@@ -1,5 +1,14 @@
 # Jack Pierce Portfolio
 
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+
+
 [link to other page](https://jackpierce11.github.io/About_me.html)
 
 ## Contents
