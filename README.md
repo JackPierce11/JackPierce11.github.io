@@ -66,24 +66,25 @@ In the kaggle competition my submission got a score of **0.13205**. This placed 
 ### Formal Education
  - 2.1 Masters in Physics with Philosophy from the University of Manchester
  
-Masters Physics Project - Research andexperimental project on magnetic nanobot
-Masters Philosophy Thesis - "In support of Wittgenstein’s critique of the Tractatus: Moving from The Picture Theory to Forms of Life" - I attempt to use biological evolution to add support for Wittgenstein's later philosophy of language.
 
-Relevant courses - Mathematics 1 & 2, Vibrations and Waves, Statistical Mechanics, Mathematics of Waves and Fields, Introduction to Non-Linear Physics, Philosophy of Language
+- **Masters Physics Project** - Research andexperimental project on magnetic nanobot
+- **Masters Philosophy Thesis** - "In support of Wittgenstein’s critique of the Tractatus: Moving from The Picture Theory to Forms of Life" - I attempt to use biological evolution to add support for Wittgenstein's later philosophy of language.
+
+**Relevant courses** - Mathematics 1 & 2, Vibrations and Waves, Statistical Mechanics, Mathematics of Waves and Fields, Introduction to Non-Linear Physics, Philosophy of Language
  
 ### Informal Studying
  - Completed Deep Learning Specialisation on Coursera
  - 88% Completed the dataquest data scientist in Python course 
  - Tracked over 400 hours of self study time, using online courses and applying knowledge in projects
  
-I track all the hours I study and keep a log of what I studied each day in Notion. See link to see the study tracking and organisational skills that help keep me motivated, focused and constantly progressing!
-(https://www.notion.so/Data-21230337f4c04fb8acd0bf1d0143b7bd?pvs=4)
+[I track all the hours I study and keep a log of what I studied each day in Notion.](https://www.notion.so/Data-21230337f4c04fb8acd0bf1d0143b7bd?pvs=4) See link to see the study tracking and organisational skills that help keep me motivated, focused and constantly progressing!
+
 
 ## Medium Articles
 
-[I have a medium profile you can find here!](https://medium.com/@jacktpierce11)
+[Check out my Medium profile](https://medium.com/@jacktpierce11)
 
-I want to write about my interests that are related to Data Science, AI and NLP.
+I like to write about my interests that are related to Data Science, AI and NLP.
 
 ### Articles:
 - [Input-Based Language Learning: What Deep Learning Can Teach Us](https://medium.com/@jacktpierce11/input-based-language-learning-what-deep-learning-can-teach-us-fc0dc7a24a84)
