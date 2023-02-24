@@ -1,5 +1,7 @@
 # Jack Pierce Portfolio
 
+[link to other page](https://jackpierce11.github.io/About_me.html)
+
 ## Contents
 - [About me](#Aboutme)
 - [Projects](#Projects)
