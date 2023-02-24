@@ -9,6 +9,8 @@
     - Informal Studying
 - Medium Articles
 
+[Download CV](CV 3.1.pdf)
+
 # **About me**
 
 
