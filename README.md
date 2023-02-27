@@ -1,4 +1,4 @@
-# Portfolio
+# Jack Pierce: Portfolio
 
 ## Contents
 - About me
