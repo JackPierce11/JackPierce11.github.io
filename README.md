@@ -11,7 +11,7 @@
     - Informal Studying
 - Medium Articles
 
-[Download CV]<JackPierce11.github.io/CV_3.1.pdf>
+[Download CV](CV%203.1.pdf)
 
 # **About me**
 
