@@ -1,15 +1,11 @@
 # Jack Pierce: Portfolio
 
 ## Contents
-- About me
-- Projects
-  - Predicting the Winner For Premier League Matches
-  - Predicting House Price Sale Value
-- Technical Skills and Programming Ability
-- Education
-    - Formal Education
-    - Informal Studying
-- Medium Articles
+- [About me](#about-me)
+- [Projects](#projects)
+- [Technical Skills and Programming Ability](#technical-skills-and-programming-ability)
+- [Education](#education)
+- [Medium Articles](#medium-articles)
 
 [Link to my CV](CV%203.1.pdf)
 
