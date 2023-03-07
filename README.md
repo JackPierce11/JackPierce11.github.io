@@ -7,7 +7,7 @@
 - [Education](#education)
 - [Medium Articles](#medium-articles)
 
-[Link to my CV](CV%203.1.pdf)
+[Link to my CV](CV%204.0.pdf)
 
 # **About me**
 
