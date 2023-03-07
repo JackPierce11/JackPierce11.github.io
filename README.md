@@ -3,8 +3,9 @@
 
 - [About me](#Aboutme)
 - [Projects](#Projects)
-  - [1. Predicting the Winner For Premier League Matches](##1.PredictingtheWinnerForPremierLeagueMatches)
-  - [2. Predicting House Price Sale Value](##2.PredictingHousePriceSaleValue)
+  - [1. Women's Clothing Reviews Sentiment Analysis](##1.WomensClothingReviewsSentimentAnalysis)
+  - [2. Predicting the Winner For Premier League Matches](##1.PredictingtheWinnerForPremierLeagueMatches)
+  - [3. Predicting House Price Sale Value](##2.PredictingHousePriceSaleValue)
 - [Technical Skills and Programming Ability](#TechnicalSkillsandProgrammingAbility)
 - [Education](#Education)
     - [Formal Education](##FormalEducation)
@@ -24,8 +25,22 @@ In summary, my multidisciplinary background and diverse interests in physics, ph
 
 # Projects
 
+## [1. Women's Clothing Reviews Sentiment Analysis](https://github.com/JackPierce11/Womens-Clothing-Reviews-Sentiment-Analysis)
 
-## [1. Predicting the Winner For Premier League Matches](https://github.com/JackPierce11/Premier-League-Project)
+### Women's Clothing Reviews Sentiment Analysis Conclusion
+
+In this project, the aims were to:
+- Perform a detailed exploratory data analysis.
+- Build a Word2Vec language model based on the corpus of text in the dataset.
+- To predict whether customers left 5-star reviews based solely on the review text they left for the item they purchased.
+
+3 neural network models which contained some form of LSTM layer were made with Keras. It was found that **Model 2 had the highest accuracy score of 0.702**. Here is a table to show the results:
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/73466733/223437077-ddde4981-f2d0-441c-a90b-9b0365b3b680.png">
+
+**Evaluation of Results:**  A customer rating of less than 5-stars did not always indicate customer dissatisfaction. The model had significant false positives. Though the dataset was balanced, it did not match the sentiment split of the dataset. The company should focus on understanding why customers leave a positive text review but do not give a 5-star rating in order to improve customer experience.
+
+## [2. Predicting the Winner For Premier League Matches](https://github.com/JackPierce11/Premier-League-Project)
 
 ### Predicting Premier League Winner Conclusion
 We found that the **random forest classifier** performed the best on our data, with a **CV score of 0.692** and a **test accuracy score of 0.728**. This means that this model can correctly predict the winner of a football match by seeing the post match stats roughly 73% of the time. 
@@ -41,7 +56,7 @@ Below is a confusion matrix for the random forest classifier:
 
 ---
 
-## [2. Predicting House Price Sale Value](https://github.com/JackPierce11/Predicting-House-Prices)
+## [3. Predicting House Price Sale Value](https://github.com/JackPierce11/Predicting-House-Prices)
 
 ### Predicting House Prices Conclusion
 
