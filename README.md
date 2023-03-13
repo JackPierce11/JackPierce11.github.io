@@ -83,7 +83,7 @@ In the kaggle competition my submission got a score of **0.13205**. This placed 
  - 2.1 Masters in Physics with Philosophy from the University of Manchester
  
 
-- **Masters Physics Project** - Research andexperimental project on magnetic nanobot
+- **Masters Physics Project** - Research and experimental project on magnetic nanobots.
 - **Masters Philosophy Thesis** - "In support of Wittgenstein’s critique of the Tractatus: Moving from The Picture Theory to Forms of Life" - I attempt to use biological evolution to add support for Wittgenstein's later philosophy of language.
 
 **Relevant courses** - Mathematics 1 & 2, Vibrations and Waves, Statistical Mechanics, Mathematics of Waves and Fields, Introduction to Non-Linear Physics, Philosophy of Language
