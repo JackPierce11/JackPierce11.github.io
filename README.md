@@ -91,7 +91,7 @@ In the kaggle competition my submission got a score of **0.13205**. This placed 
 
 # Technical Skills and Programming Ability
 - Python (Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Keras)
-- SQL (familiar)
+- SQL (Queries)
 - Microsoft Office (Excel, Powerpoint, Word)
 - Matlab (Applied in Physics experiments)
 
