@@ -22,7 +22,26 @@ In summary, my multidisciplinary background and diverse interests in physics, ph
 
 # Projects
 
-## [1. Women's Clothing Reviews Sentiment Analysis](https://github.com/JackPierce11/Womens-Clothing-Reviews-Sentiment-Analysis)
+## [Customer Segment Analysis](https://github.com/JackPierce11/Customer-Analysis)
+
+**Project Summary**
+
+This customer analysis project aimed to identify customer segments and key characteristics that impact purchasing behavior and provide insights and recommendations for improving sales and revenue. The dataset comes from a business with in-store, online and catalogue retail channels.
+
+**Insights and Recommendations**
+- High-income customers exhibit the highest average total spending, mean purchase value per order, and response rate to campaigns. Targeting these customers with exclusive and expensive products could lead to increased sales and revenue.
+- The catalog sales channel showed the highest average total spending and mean purchase value per order. Customers who preferred this channel also had the highest response rate to campaigns. Investing more in the catalog sales channel could help reach more customers and generate more sales.
+- Customers who participated in more campaigns had higher average total spending and mean purchase value per order. Encouraging customer participation in campaigns can lead to higher spending and purchase values.
+- One-person households displayed the highest average total spending, mean purchase value per order, and response rate to campaigns. Offering products and services catering to one-person households, such as smaller and more affordable packages or personalized experiences, can drive higher sales and customer satisfaction.
+
+
+The diagram below shows customer spending differences among different customer segments:
+
+![image](https://user-images.githubusercontent.com/73466733/229087494-c831a884-b6a5-4747-8ab6-42f1b0badb81.png)
+
+---
+
+## [Women's Clothing Reviews Sentiment Analysis](https://github.com/JackPierce11/Womens-Clothing-Reviews-Sentiment-Analysis)
 
 ### Women's Clothing Reviews Sentiment Analysis Conclusion
 
@@ -39,7 +58,7 @@ In this project, the aims were to:
 
 ---
 
-## [2. Predicting the Winner For Premier League Matches](https://github.com/JackPierce11/Premier-League-Project)
+## [Predicting the Winner For Premier League Matches](https://github.com/JackPierce11/Premier-League-Project)
 
 ### Predicting Premier League Winner Conclusion
 We found that the **random forest classifier** performed the best on our data, with a **CV score of 0.692** and a **test accuracy score of 0.728**. This means that this model can correctly predict the winner of a football match by seeing the post match stats roughly 73% of the time. 
@@ -55,7 +74,7 @@ Below is a confusion matrix for the random forest classifier:
 
 ---
 
-## [3. Predicting House Price Sale Value](https://github.com/JackPierce11/Predicting-House-Prices)
+## [Predicting House Price Sale Value](https://github.com/JackPierce11/Predicting-House-Prices)
 
 ### Predicting House Prices Conclusion
 
